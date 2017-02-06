@@ -14,7 +14,7 @@ npm install total.js
 npm install
   ```
 
-4. compile .ts files in Angular. Open another command line and go to the /client folder and run
+4. run webpack for React.js. Bundled files will be copied to /public directory 
 
   ```
   npm run webpack
